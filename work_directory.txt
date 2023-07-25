@@ -1,0 +1,6 @@
+folders: python-001-base
+folders: python-002-functions
+folders: python-003-moduls-and-packets
+folders: python-004-console-file-manager
+folders: python-005-json
+files: work_directory.txt
